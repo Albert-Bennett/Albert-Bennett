@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Albert, I'm a Senior Software Developer with around 5 years of experience. Right now I'm into all things chat bot and AI. I love learning new things and sharing the new things that I learn. You can read about some of them on my [blog](https://dev.to/albertbennett) or see some of them in action on my [You Tube Channel](https://www.youtube.com/channel/UC3A1KLrFbFRDIRaT5MK4ZMg).
+
+<div>
+  <a href="https://github.com/Albert-Bennett">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Albert-Bennett&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-Bennett&layout=compact&langs_count=8&theme=dracula"/>
+</div>
+
 <!--
 **Albert-Bennett/Albert-Bennett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
